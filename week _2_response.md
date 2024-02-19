@@ -12,3 +12,4 @@ Do you want to know more about [Cloud](https://finalfantasy.fandom.com/wiki/Clou
 
 ![Cloud](https://static.wikia.nocookie.net/finalfantasy/images/e/ec/Cloud_Strife_from_FFVII_Rebirth_promo_render.png/revision/latest?cb=20230916055526)
 
+![Cloud Strife](assets/cloudkhearts.png)
