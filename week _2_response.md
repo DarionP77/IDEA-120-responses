@@ -1,7 +1,9 @@
-##Week 2 responses 
+## WEEK 2 RESPONSES
 
-###Week 2 reponses
+### WEEK 2 Responses 
 
+#### WEEK 2 responses 
 
-
-####Week 2 responses
+apples
+oranges
+bannanas
