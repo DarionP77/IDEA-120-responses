@@ -10,6 +10,6 @@ bannanas
 
 {text}{URL
 
-Do you wanna know more about {Cloud}{https://finalfantasy.fandom.com/wiki/Cloud_Strife}
+Do you wanna know more about (Cloud)(https://finalfantasy.fandom.com/wiki/Cloud_Strife)
 
 
