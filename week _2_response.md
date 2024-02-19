@@ -8,7 +8,7 @@ apples
 oranges  
 bannanas  
 
-{text}{URL
+.[Cloud](https://finalfantasy.fandom.com/wiki/Cloud_Strife)
 
 Do you wanna know more about (Cloud)(https://finalfantasy.fandom.com/wiki/Cloud_Strife)
 
