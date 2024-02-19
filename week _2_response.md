@@ -4,6 +4,6 @@
 
 #### WEEK 2 responses 
 
-apples
-oranges
-bannanas
+apples  
+oranges  
+bannanas  
